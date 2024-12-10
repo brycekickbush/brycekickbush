@@ -1,1 +1,1 @@
-Data Science student at University of Wisconsin Madison.
+UW-Madison DS Alum
